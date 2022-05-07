@@ -1,5 +1,5 @@
 # Typescript Finance Logger
-An exercise project aiming to put into practice the main Typescript concepts, functionality and syntax.
+An exercise project aiming to put into practice the main Typescript concepts, functionality and syntax. This project does not aim to apply CSS further than the required to allow basic usability.
 
 ## How to use the app
 You can spin up the `index.html` file in VS Code with the Live Server extension.

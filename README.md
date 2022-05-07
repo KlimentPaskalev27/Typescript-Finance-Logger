@@ -3,6 +3,7 @@ An exercise project aiming to put into practice the main Typescript concepts, fu
 
 ## How to use the app
 You can spin up the `index.html` file in VS Code with the Live Server extension.
+<img alt="Screenshot of the Typescript Finance Logger app in Chrome" src="https://github.com/KlimentPaskalev27/Typescript-Finance-Logger/blob/main/screenshot.PNG?raw=true?" width="800" />
 
 ## Set up
 You will need Node installed on your PC. You will need to use npm to install TypeScript on your machine if you don't have it already. Open your IDE, open up a new terminal and run `npm install -g typescript`.
